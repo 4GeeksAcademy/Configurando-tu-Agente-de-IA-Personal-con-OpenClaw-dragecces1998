@@ -60,10 +60,10 @@ para operaciones con herramientas.
 
 ## Estado
 
-- [x] OpenClaw instalado y accesible en el VPS
-- [x] LiteLLM configurado (verificado por HTTP 200 directo)
-- [x] El chat local devuelve respuesta válida
-- [x] Workspace publicado en GitHub vía SSH desde el VPS
-- [x] Sin archivos sensibles en el repositorio
-- [ ] `IDENTITY.md` personalizado — bloqueado por el rate limit
-- [ ] Personalización conversando con el agente — bloqueado por el rate limit
+ OpenClaw instalado y accesible en el VPS
+ LiteLLM configurado (verificado por HTTP 200 directo)
+ El chat local devuelve respuesta válida
+Workspace publicado en GitHub vía SSH desde el VPS
+ Sin archivos sensibles en el repositorio
+ `IDENTITY.md` personalizado — bloqueado por el rate limit
+-Personalización conversando con el agente — bloqueado por el rate limit
